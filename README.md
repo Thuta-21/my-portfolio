@@ -1,2 +1,5 @@
-# The first Portfolio Website
-Created with BootStrap
+# 💻 The First Portfolio Website
+
+A personal portfolio website created to showcase projects and skills.
+
+-  Built with Bootstrap
